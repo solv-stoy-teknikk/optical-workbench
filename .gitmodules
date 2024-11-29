@@ -1,0 +1,3 @@
+[submodule "hardware/cam-slider"]
+	path = hardware/cam-slider
+	url = https://github.com/solv-stoy-teknikk/cam-slider
