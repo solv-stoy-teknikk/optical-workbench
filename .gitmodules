@@ -1,3 +1,6 @@
 [submodule "hardware/cam-slider"]
 	path = hardware/cam-slider
 	url = https://github.com/solv-stoy-teknikk/cam-slider
+[submodule "firmware/grbl"]
+	path = firmware/grbl
+	url = https://github.com/solv-stoy-teknikk/grbl
